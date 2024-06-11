@@ -1,8 +1,12 @@
 # sprint EDGE
 André Luiz Flores RM554952
+
 Guilherme Lunghini RM556892
+
 Luan Ramos RM558537
+
 Matheus Bortolotto RM555189
+
 Matheus Ricciotti RM556930
 
 Link do projeto e do código fonte
@@ -10,14 +14,23 @@ https://wokwi.com/projects/400327520791022593
 
 # Componentes
 Fios jumper
+
 5 Leds vermelhos
+
 5 Leds verdes
+
 10 resistores 1KΩ
+
 1 Buzzer
+
 1 Botão
+
 1 Lcd 16x2
+
 1 Protoboard
+
 1 Arduino Uno
+
 ![image](https://github.com/glunghini/sprintEDGE/assets/161391446/0e0662dc-91bd-47de-8b70-f198b4fe37ba)
 
 
